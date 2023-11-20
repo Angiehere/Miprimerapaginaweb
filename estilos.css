@@ -1,0 +1,10 @@
+body{
+  background-color: #D8B9EE;
+  color: #564064 ;
+  font-family: 'Bebas Neue', sans-serif;
+}
+/*notes woa*/
+/*google fonts for font styles*/
+h1 {font-size: 122px; font-family: 'Bebas Neue', sans-serif;}
+.Img1 {border-style: groove;}
+.Img2 {border-style: inset; border-width: 14px;border-color: #564064;}
